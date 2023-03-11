@@ -1,5 +1,5 @@
+import 'package:app/pages/SignInPage/signinpage.dart';
 import 'package:flutter/material.dart';
-import 'package:app/pages/signinpage.dart';
 
 class SplashPage extends StatelessWidget {
   static String routeName = "/splash";
